@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   powitanie: string = 'pierwsza-nieskomplikowana-aplikacja';
   tekstNaDzis: string = 'Głowa do góry'
+  nowaWiadomosc: string = 'Cześć Wszystkim'
 }
